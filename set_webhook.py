@@ -3,7 +3,7 @@ from telegram import Bot
 
 TOKEN = '8154854350:AAE5IH4svWa9_964SI9fPqbK0R8YSNJEPkYE'
 # Replace with your actual Render URL after deploying
-WEBHOOK_URL = 'https://your-app-name.onrender.com'
+WEBHOOK_URL = 'https://xylomutronix-bot.onrender.com'
 
 async def set_webhook():
     bot = Bot(token=TOKEN)
